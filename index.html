@@ -14,9 +14,19 @@
     <div id="app">加载中</div>
     <script>
         window.$docsify = {
+            auto2top: true,
+            coverpage: true,
             loadSidebar: true,
+            onlyCover: false,
             name: 'OpenTDP',
-            logo: '/static/logo.svg',
+            search: {
+                noData: {
+                    '/': '没有结果!',
+                },
+                placeholder: {
+                    '/': '搜索',
+                }
+            },
         }
     </script>
     <script src="/static/docsify/docsify.min.js"></script>

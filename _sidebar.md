@@ -1,3 +1,7 @@
-- [TDP-Cloud](/cloud/README.md)
+- TDP Cloud
 
-- [TDP-Aiart](/aiart/README.md)
+  - [查看文档](/cloud/README.md)
+
+- TDP Aiart
+
+  - [查看文档](/aiart/README.md)
