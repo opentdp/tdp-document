@@ -6,21 +6,24 @@
     <meta http-equiv="Content-Security-Policy" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width,initial-scale=1.0" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/docsify/4.13.0/themes/vue.min.css" />
+    <link rel="stylesheet" href="/static/docsify/vue.min.css" />
+    <link rel="stylesheet" href="/static/style.css" />
 </head>
 
 <body>
     <div id="app">加载中</div>
     <script>
         window.$docsify = {
-            loadSidebar: true
+            loadSidebar: true,
+            name: 'OpenTDP',
+            logo: '/static/logo.svg',
         }
     </script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/docsify/4.13.0/docsify.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/docsify/4.13.0/plugins/search.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/docsify/4.13.0/plugins/emoji.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/docsify/4.13.0/plugins/zoom-image.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/9000.0.1/components/prism-bash.min.js"></script>
+    <script src="/static/docsify/docsify.min.js"></script>
+    <script src="/static/docsify/plugins/search.js"></script>
+    <script src="/static/docsify/plugins/emoji.min.js"></script>
+    <script src="/static/docsify/plugins/zoom-image.min.js"></script>
+    <script src="/static/prism/components/prism-bash.min.js"></script>
 </body>
 
 </html>

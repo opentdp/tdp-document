@@ -1,5 +1,3 @@
-- [Open TDP](/)
-
 - [TDP Cloud](/cloud/)
 
   - [安装服务端](/cloud/安装服务端.md)
@@ -15,5 +13,3 @@
   - [反向代理设置](/cloud/反向代理设置.md)
 
   - [常用CA对比](/cloud/常用CA对比.md)
-
-- [TDP Aiart](/aiart/)
