@@ -1,10 +1,8 @@
 ![logo](/static/logo.svg)
 
-> A free open source technology organization
+> 探索云端的无限可能
 
-- Providing cutting-edge cloud applications
-- TDP-CLoud: multi cloud resource management system
-- TDP-Aiart: intelligent painting interface platform
+- 一个源自于腾讯云开发者先锋（TDP）的自由开源技术组织
 
 [GitHub](https://github.com/open-tdp)
 [Getting Started](#土豆片开源)
