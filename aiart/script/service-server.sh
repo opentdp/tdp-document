@@ -84,7 +84,6 @@ logger:
     dir: /var/log/tdp-aiart
     level: info
 server:
-    dsn: server.db
     listen: :7700
 EOF
 
@@ -135,7 +134,7 @@ stop () {
 
 }
 
-# --- run ---
+# --- run task ---
 
 case "$TDP_SERVICE" in
   install)
@@ -154,4 +153,6 @@ case "$TDP_SERVICE" in
     ;;
 esac
 
-TDP_SERVICE=
+# --- tidy ---
+
+export TDP_SERVICE=
