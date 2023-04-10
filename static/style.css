@@ -1,3 +1,7 @@
 .app-name img {
     height: 40px;
 }
+
+section.cover {
+    width: 100vw;
+}
