@@ -83,6 +83,7 @@ dataset:
 logger:
     dir: /var/log/tdp-aiart
     level: info
+    target: file
 server:
     listen: :7700
 EOF
@@ -152,7 +153,3 @@ case "$TDP_SERVICE" in
     uninstall
     ;;
 esac
-
-# --- tidy ---
-
-export TDP_SERVICE=

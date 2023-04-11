@@ -88,6 +88,7 @@ dataset:
 logger:
     dir: /var/log/tdp-cloud
     level: info
+    target: file
 worker:
   remote: $TDP_REMOTE_URL
 EOF
@@ -157,7 +158,3 @@ case "$TDP_SERVICE" in
     uninstall
     ;;
 esac
-
-# --- tidy ---
-
-export TDP_SERVICE=
