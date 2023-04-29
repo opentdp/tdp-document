@@ -42,7 +42,7 @@ if [ -z "$TDP_BINARY" ]; then
 fi
 
 if [ -z "$TDP_PACKAGE" ]; then
-    TDP_PACKAGE=https://cloud.opentdp.org/files/tdp-cloud-${TDP_PLATFORM}-${TDP_ARCHITECTURE}.gz
+    TDP_PACKAGE=https://get.opentdp.org/cloud/tdp-cloud-${TDP_PLATFORM}-${TDP_ARCHITECTURE}.gz
 fi
 
 if [ "$TDP_SERVICE" = "install" ] && [ -z "$TDP_REMOTE_URL" ]; then

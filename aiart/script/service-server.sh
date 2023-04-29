@@ -42,7 +42,7 @@ if [ -z "$TDP_BINARY" ]; then
 fi
 
 if [ -z "$TDP_PACKAGE" ]; then
-    TDP_PACKAGE=https://aiart.opentdp.org/files/tdp-aiart-${TDP_PLATFORM}-${TDP_ARCHITECTURE}.gz
+    TDP_PACKAGE=https://get.opentdp.org/aiart/tdp-aiart-${TDP_PLATFORM}-${TDP_ARCHITECTURE}.gz
 fi
 
 # --- download binary ---
