@@ -26,7 +26,7 @@ User.User Details, Zone.Zone Settings, Zone.Zone, Zone.SSL and Certificates, Zon
 
 ![添加账号](/static/img/20230429113902.png)
 
-2、在弹出的窗口设置**别名、邮箱、以及获取到的 `API Token`**，点击`提交`保存
+2、在弹出的窗口设置**别名、邮箱、以及获取到的** `API Token`，点击`提交`保存
 
 ![设置账号](/static/img/20230429114251.png)
 
