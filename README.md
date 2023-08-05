@@ -12,7 +12,7 @@
 
 ### 发布文档
 
-- 手动在 [TDP Document](https://github.com/open-tdp/tdp-document) 上创建一个 `release`
+- 手动在 [TDP Document](https://github.com/opentdp/tdp-document) 上创建一个 `release`
 
 - 每日凌晨将自动获部署到 `docs.opentdp.org`
 

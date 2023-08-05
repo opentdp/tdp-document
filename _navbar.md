@@ -1,1 +1,1 @@
-- [GitHub](https://github.com/open-tdp)
+- [GitHub](https://github.com/opentdp)
