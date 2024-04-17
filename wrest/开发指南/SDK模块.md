@@ -1,6 +1,6 @@
 # SDK 模块
 
-这是 Wrest Chat 协议适配层，通过预定义的 [Nanomsg 协议](proto/wcferry.proto) 与聊天软件实现互操作。只要遵循该协议实现聊天软件的适配即可接入其他助手功能。
+这是 Wrest Chat 协议适配层，通过预定义的 [Nanomsg 协议](https://github.com/opentdp/wrest-chat/blob/master/wcferry/proto/wcferry.proto) 与聊天软件实现互操作。只要遵循该协议实现聊天软件的适配即可接入其他助手功能。
 
 ## 调用方式
 
