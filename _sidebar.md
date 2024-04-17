@@ -7,3 +7,7 @@
 
   - [使用文档](/aiart/README.md)
   - [在线演示](https://aiart.opentdp.org)
+
+- Wrest Chat
+
+  - [使用文档](/wrest/README.md)
