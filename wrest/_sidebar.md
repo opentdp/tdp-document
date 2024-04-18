@@ -2,7 +2,9 @@
 
   - [首页](/wrest/)
 
-  - [安装服务端](/wrest/安装服务端.md)
+  - [快速入门](/wrest/快速入门.md)
+
+  - [Linux 服务端](/wrest/Linux服务端.md)
 
   - [开发指南](/wrest/开发指南/)
 
