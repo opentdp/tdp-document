@@ -1,6 +1,6 @@
 # Linux 服务端
 
-> 说明：本文档仅适用于部署 wrest 主体程序，不包含 [wcf.exe](https://github.com/lich0821/WeChatFerry) 和 [wechat](https://github.com/opentdp/wrest-chat/releases/download/v0.27.1/WeChatSetup-3.9.10.27.exe)，需要您自行下载安装，安装后请配置 WCF_ADDRESS 连接外部 wcf 服务使用。如您是新手，建议您参考[快速入门](/wrest/快速入门.md)。
+> 说明：本文档仅适用于部署 wrest 主体程序，不包含 [sdk.dll](https://github.com/lich0821/WeChatFerry) 和 [wechat](https://github.com/opentdp/wrest-chat/releases/download/v0.27.1/WeChatSetup-3.9.10.27.exe)，需要您自行下载安装，安装后请配置 WCF_ADDRESS 连接外部 wcf 服务使用。如您是新手，建议您参考[快速入门](/wrest/快速入门.md)。
 
 ## 手动部署
 

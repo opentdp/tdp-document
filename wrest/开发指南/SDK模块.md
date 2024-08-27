@@ -14,7 +14,7 @@ import (
 
 func main() {
     wc := &wcferry.Client{
-        WcfBinary: "wcf.exe",
+        SdkLibray: "sdk.dll",
     }
     if err := wc.Connect(); err != nil {
         panic(err)
